@@ -1,0 +1,22 @@
+div {
+    
+    color: white;
+    width: 300px;
+    font-size: 20px;
+    margin: 50px;
+    border: 5px solid red;
+    padding: 50px;
+
+    background-image: url(./img/cat.jpeg);
+    background-position: center;
+    background-size: cover;
+    
+}
+
+p {
+    line-height: 30px;
+}
+
+.neg {
+    font-weight: bold;
+}
